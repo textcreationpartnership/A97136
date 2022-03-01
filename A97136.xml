@@ -1,0 +1,450 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the Honourable House of Commons at their late monethly fast, being on Wednesday, June 30. 1647. / By Nathaniel Ward Minister of Gods Word.</title>
+            <author>Ward, Nathaniel, 1578-1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97136</idno>
+            <idno type="STC">Wing W784</idno>
+            <idno type="STC">Thomason E394_20</idno>
+            <idno type="STC">ESTC R201633</idno>
+            <idno type="EEBO-CITATION">99862133</idno>
+            <idno type="PROQUEST">99862133</idno>
+            <idno type="VID">114282</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97136)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114282)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E394[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the Honourable House of Commons at their late monethly fast, being on Wednesday, June 30. 1647. / By Nathaniel Ward Minister of Gods Word.</title>
+                  <author>Ward, Nathaniel, 1578-1652.</author>
+               </titleStmt>
+               <extent>[8], 27, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.I. for Stephen Bowtell at the signe of the Bible in Popes-head Alley,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first leaf is blank.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Ezekiel XIX, 14 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Fast-day sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114282:1"/>
+            <pb facs="tcp:114282:1" rendition="simple:additions"/>
+            <p>A SERMON PREACHED Before the Honourable Houſe OF COMMONS At their late Monethly Faſt, being on <hi>Wedneſday, June</hi> 30. 1647.</p>
+            <p>
+               <hi>By</hi> NATHANIEL WARD <hi>Miniſter of Gods Word.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. I.</hi> for <hi>Stephen Bowtell</hi> at the ſigne of the Bible in Popes-head Alley 1647.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:114282:2"/>
+            <head>The Bookſeller to the Reader.</head>
+            <opener>
+               <salute>Courteous READER:</salute>
+            </opener>
+            <p>THis Sermon by a ſpeciall Providence came into my hands. The enſuing Letter was written by the Au<g ref="char:EOLhyphen"/>thor to ſome friends, for whom this Copy was prepared: That the printing of falſe Copies might bee prevented which I heard were abroad, and intended for the Preſſe: I have adventred at the earneſt requeſt of many, both godly and judicious, to publiſh this without the knowledg or conſent of the Author, not doubting but that it will be both uſefull and acceptable to moſt, and juſtly diſplea<g ref="char:EOLhyphen"/>ſing unto none.</p>
+            <closer>
+               <signed>Thine S.B.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:114282:2"/>
+            <head>A LETTER To ſome Friends.</head>
+            <opener>
+               <salute>Loving Friends,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>O ſatisfie your expectations I am willing to ſend you a true coppy of my Sermon as I wrote it, but I confeſſe in ſome things a little dif<g ref="char:EOLhyphen"/>fering from my preaching it: wanting time and reſt, having travelled much a little before the day, and ſtriving to ſpeake loud in ſo great a Church; I ſoon diſcerned, that I could not bee Maſter of my thoughts and memory: but forgat ſomethings materiall, and expreſ<g ref="char:EOLhyphen"/>ſed two or three paſſages inconveniently, which ſounded ill in mine owne eares. I was very loth to read my notes more then ſome ſcriptures: had I done it, I preſume <hi>I</hi> had not offended any: but my judgement is altogether againſt it.</p>
+            <p>It hath not beene my manner to grieve any mans ſpirit in the Pulpit, But in a diſtempered time, when occurren<g ref="char:EOLhyphen"/>ces of State are ſo violent and various that a man ſpeaks for life, it is hard to ſpeak pertinently to the caſe, and acceptably to all hearers, eſpecially when there are ſo many counterparties, tuning their eares to the key of their owne Intereſts, inſo<g ref="char:EOLhyphen"/>much that I ſcarſe know any man who lyes not now under
+<pb facs="tcp:114282:3"/>ſome preſſing prejudice, moſt men ſeeme to <hi>Exercere hanc artem</hi> induſtriouſly: and God ſeemes to pinion up every mans armes, whoſe hearts is ſet to doe him or this State any true ſervice; but <hi>I</hi> am farre from excuſing my ſelfe any far<g ref="char:EOLhyphen"/>ther then I may and ought.</p>
+            <p>Two or three things <hi>I</hi> heare pleaſed not, <hi>1</hi> My perſwading ſo much to lament the King, wherein <hi>I</hi> acknowledge <hi>I</hi> let fall one redundant expreſſion; <hi>I</hi> am very ignorant of Gods minde, if it be not a very Chriſtian, and at this time a very neceſſary duty; <hi>I</hi> thinke <hi>I</hi> had ſpoke nothing to the Text, if <hi>I</hi> had not ſpoke to that which is the maine poynt in it. <hi>I</hi> earneſtly wiſh that time doth not drive us to a more bitter lamentation for his carriage and miſ-carriage, then now we are able or willing to foreſee, <hi>I</hi> deſire to bewaile my ſelfe that <hi>I</hi> can bewails him no more. Yet if <hi>I</hi> may beleeve my ſelfe, hot or cold, <hi>I</hi> am as farre from being a Malignant as any man that heard mee.</p>
+            <p>Another was ſome paſſages concerning the Army, which I have ſent you verbatim, I acknowledge I can but pitty and pray for them, and ſo far as God who is able to worke good out of evill, makes them his inſtruments to awaken the Parliament to expedite what is neceſſary. I looke on them in hope they will doe no great harme, but when I conſider, how they have be<g ref="char:EOLhyphen"/>gun ſo vaſt and ſtrange an enterprize without Warrant, I cannot but feare they will proceed beſides and beyond rule, if God lead not their leaders, with his onely wiſe hand, little doe good men know what ſpirits themſelves, much leſſe rude men, are of, if once they be imbroyled, in heate of action and oppoſition.</p>
+            <p>The other was, the word <hi>carting,</hi> which you ſhall meete withal in its place, it grieved me to ſee divers ſmile at it with ſleight Spirits in ſo ſolemne a time. I weighed it before and adviſed with a godly prudent Divine about it, who ſaid it
+<pb facs="tcp:114282:3"/>was no unfit expreſsion, but might be well uſed. Chriſt calls himſelfe a Husbandman, into which calling it falls; cart<g ref="char:EOLhyphen"/>ing is as honeſt and honourable a worke and word as Carpen<g ref="char:EOLhyphen"/>tering: I thinke I ſhall ere long ſhew you a good Commentator on <hi>Ezek.</hi> who ſaith, <hi>Chriſtus, or, ſpiritus Chriſti eſt opti<g ref="char:EOLhyphen"/>mus &amp; peritiſsimus Auriga, &amp;c.</hi>
+            </p>
+            <p>Some of you know how truely unwilling <hi>I</hi> was to come upon any publique Stage, knowing how perillous and jealous the times are, and how ſeriouſly <hi>I</hi> declined this text ſuſpect<g ref="char:EOLhyphen"/>ing the very words of it would bee ungratefull to ſome. <hi>I</hi> conſulted with ſeven intimate friends about it, and another much cooler and peaceable, whereto my owne minde moſt led mee, as they can beare mee witneſſe, ſix of them urged mee to this, yet my heart did conſtantly diſcourage me from it, though upon many thoughts <hi>I</hi> could not conceive any ſub<g ref="char:EOLhyphen"/>ject ſo neceſſary as to perſwade the reſtauration and conſer<g ref="char:EOLhyphen"/>vation of our loſt authority, in a time when Government is fallen ſo low, and mens Spirits riſen ſo high: that if it be not ſuddenly looked into, no humane eye can ſee any helpe or hope how it can be ſcrued up againe to its due altitude, unleſſe it be by him who can doe what he pleaſe.</p>
+            <p>
+               <hi>I</hi> truſt <hi>I</hi> ſhal not be grieved that <hi>I</hi> was not thanked or order<g ref="char:EOLhyphen"/>ed to print, <hi>I</hi> am not only above but a verſe to both. <hi>I</hi> have had more thankes then <hi>I</hi> can tell what to do with, and many juſti<g ref="char:EOLhyphen"/>fie me <hi>I</hi> feare too much, and more importunity to print it then <hi>I</hi> have or ſhall liſten unto, for <hi>I</hi> ſee the nakedneſſe of it well enough, this <hi>I</hi> acknowledge grieves me ſadly, that comming a hard Winter voyage over the vaſt raging Seas to doe what ſervice <hi>I</hi> could to my Country, in preſerving Truth, and pro<g ref="char:EOLhyphen"/>moting Peace; <hi>I</hi> am obſtructed ſo far as <hi>I</hi> am. <hi>I</hi> am not igno<g ref="char:EOLhyphen"/>rant that there are ſome troubled at my being here, and watch<g ref="char:EOLhyphen"/>ing an opportunity to weaken me and my worke, which <hi>I</hi> have attended faithfully, meekly, and not without ſome ſucceſſe, but
+<pb facs="tcp:114282:4"/>
+               <hi>I</hi> am not altogether diſcouraged. I hope I ſhall make and keep my peace with the Lord, as for men <hi>I</hi> hope not for it, till hee ſhall vouchſafe to give us more humility and feare then <hi>I</hi> can yet ſee in this Land, which two graces ſeeme to me to bee much more wanting then they ever were in my dayes.</p>
+            <p>I pray let none take any copy of this Sermon, but ſuch as are wiſe, and friends to me, and have no itch to publiſh it, I would not adde offence to offence, it hath beene often told mee with ſome confidence, that it is already in the Preſſe, but where and by whom, I cannot learne: I have uſed means and friends to prevent it, if it ſhould by any other Copy. I ſhall then ad<g ref="char:EOLhyphen"/>viſe with you what to doe.</p>
+            <p>
+               <hi>I</hi> intreat you, if in peruſing it you find any evill in the mat<g ref="char:EOLhyphen"/>ter or manner, you would charge me faithfully with it; <hi>I</hi> ſhall find a time and way to unſay and undoe it, in the meane while pray for him, that ſhall be</p>
+            <closer>
+               <signed>
+                  <hi>Yours if ever a time come againe when men may be their owne.</hi> Nath. Ward.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:114282:4"/>
+            <head>A SERMON PREACHED Before the Honourable Houſe of Com<g ref="char:EOLhyphen"/>mons, aſſembled in Parliament: At their late Monethly FAST, Being on <hi>Wedneſday June,</hi> 30. 1647.</head>
+            <epigraph>
+               <bibl>
+                  <hi>EZEKIEL 19. ver. 14.</hi>
+               </bibl>
+               <q>And fire is gone out of a Rod of her branches, which hath devoured her fruite, ſo that ſhe hath no ſtrong Rod, to be a Scepter to Rule, this is a Lamentation, and ſhall be for a Lamentation.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HIS Chapter is a Tragicall conclu<g ref="char:EOLhyphen"/>ſion of the Antecedent part of this pro<g ref="char:EOLhyphen"/>phecie, wherein the Prophet tells them,
+<list>
+                  <item>1 To what paſſe they have brought the ſtate of <hi>Jſrael.</hi>
+                  </item>
+                  <item>2 What God would have them now doe.</item>
+               </list>
+            </p>
+            <p>The firſt, under a two-fold or rather three-fold Al<g ref="char:EOLhyphen"/>legory,
+<pb n="2" facs="tcp:114282:5"/>it will not bee amiſſe to take a very Tranſient view of the whole Chapter, being ſhort; that we may take the better aime at the Text.</p>
+            <p>Moreover take thou up a lamentation for the Princes of <hi>Jſrael.</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Ver. </seg>1</label> 
+            </p>
+            <p>It well beſeemes a State profeſſing Religion to la<g ref="char:EOLhyphen"/>ment the miſcarriages and miſeries of their Princes, and good reaſon, for they are uſually for their ſinne, and to their ſorrow.</p>
+            <p>And ſay, <label type="milestone">
+                  <seg type="milestoneunit">Ver. </seg>2</label> what is thy Mother? a Lyoneſſe, ſhe lay down among Lyons, ſhe nouriſhed her whelps among young Lyons.</p>
+            <p>It ſeemes God and the Prophet tooke the Com<g ref="char:EOLhyphen"/>mon-wealth to be the Mother or Parent of their Kings, the Kings her Sonnes.</p>
+            <p>If Common-wealths were ſuch Mothers as we read of <hi>Prove.</hi> 31. And would inſtruct their Princes ſo pi<g ref="char:EOLhyphen"/>ouſly as ſhe did, they ſhould probably have more <hi>Lemuels</hi> and fewer <hi>Rehoboams.</hi>
+            </p>
+            <p>If Princes would acknowledg their common-wealth to be their Mother, there were ſome hope they would better obſerve <hi>Solomons</hi> advice, or rather Gods, which is not to forſake the Laws of their Mother to rule <hi>pro arbitrio,</hi> nor prove a heavineſſe to their Mother, nor a ſhame to their Mother, nor deſpiſe their Mother, nor chaſe away their Mother, nor curſe their Mother, nor ſmite their Mother.</p>
+            <p>But this Mother at this time was a Lyoneſſe, ſhee couched among Lyons, and nurſed up her whelps a<g ref="char:EOLhyphen"/>mong young Lyons.</p>
+            <p>If Common-wealths bee Lyons, how or why ſhould their Kings be Lambs?</p>
+            <p>If they will nurſe up their Princes among young Ly<g ref="char:EOLhyphen"/>ons
+<pb n="3" facs="tcp:114282:5"/>how ſhould they ſhift to ſhare deepe of their na<g ref="char:EOLhyphen"/>ture?</p>
+            <p>Young Courtyers are lightly none of the beſt Tutors.</p>
+            <p>And ſhe brought up one of her whelps: <label type="milestone">
+                  <seg type="milestoneunit">Ver. </seg>3</label> it became a young Lyon, it learned to catch the prey, it devoured men.</p>
+            <p>If Subjects will bee <hi>Demobori</hi> why ſhould not their Kings bee <hi>Demophagi?</hi>
+               <note place="margin">Jehoahaz.</note> It is pity a predant people ſhould want a Rampant King; But a man had need to have a good thicke skinne, and good ſolid bones to live in ſuch a Kingdome.</p>
+            <p>It becomes a King to bee a Lyon, but a Lamb too, elſe hee will not bee like Chriſt the King of Kings, and King of Saints.</p>
+            <p>The Nations alſo heard of him, <label type="milestone">
+                  <seg type="milestoneunit">Ver. </seg>4</label> hee was taken in their Pit, and they brought him with chaines unto the Land of <hi>Egypt.</hi>
+            </p>
+            <p>Forraigne Nations, though heathen, doe neither like, nor love their neighbour Kings, if they heare they are oppreſſors.</p>
+            <p>What pits Princes dig for their Subjects they often fall into themſelves.<note place="margin">2 Chron. 12.7, 8, 9.</note>
+            </p>
+            <p>Now when ſhe ſaw that ſhe had waited, <label type="milestone">
+                  <seg type="milestoneunit">Ver. </seg>5</label> and her hope was loſt, then ſhe tooke another of her whelps, and made him a young Lyon.<note place="margin">Jeofahei<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </note>
+            </p>
+            <p>It is Chriſtianity to waite with all patience for the returne of a King: it will alſo ſtand with Chriſti<g ref="char:EOLhyphen"/>anity, when all patience, and hope is ſpent, to be think<g ref="char:EOLhyphen"/>ing of a right ſucceſſor.</p>
+            <p>And he went up and downe among the Lyons; <label type="milestone">
+                  <seg type="milestoneunit">Ver. </seg>6</label> he be<g ref="char:EOLhyphen"/>came a young Lyon, and learned to catch the prey, and devoured men.</p>
+            <pb n="4" facs="tcp:114282:6"/>
+            <p>Of this before ver. 3.</p>
+            <p>And hee knew their deſolate places, <label type="milestone">
+                  <seg type="milestoneunit">Ver. </seg>7</label> and he layed waſt their Cities, and the land was deſolate, and the fulneſſe thereof by the noyſe of his roaring.</p>
+            <p>When Princes begin to oppreſſe they know not where they ſhall make an end; vice hath no meane but not to be at all.</p>
+            <p>A King may roare his Land deſolate, by roaring Proclamations and Edicts.</p>
+            <p>Then the Nations ſet againſt him on every ſide from the Provinces, <label type="milestone">
+                  <seg type="milestoneunit">Ver. </seg>8</label> and ſpread their Net over him: he was ta<g ref="char:EOLhyphen"/>ken in their pit.</p>
+            <p>And they put him inward in Chaines, <label type="milestone">
+                  <seg type="milestoneunit">Ver. </seg>9</label> and brought him to the King of <hi>Babylon,</hi> they brought him into holds, that his voyce ſhould not be heard upon the Mountains of <hi>Jſrael.</hi>
+            </p>
+            <p>It were Royall wiſdome for Kings, to take warn<g ref="char:EOLhyphen"/>ing by their erring Predeceſſors: but thats out of faſhion.</p>
+            <p>When Kings will not be quiet without abſolute Mo<g ref="char:EOLhyphen"/>narchy and Sovereigne Libertie, they may come at length to that Market where they can have none at all.</p>
+            <p>Theſe were forraigne toyles, but European Hiſto<g ref="char:EOLhyphen"/>ries tell us of ſundry Kings and Princes taken in home Toyles.</p>
+            <p>Civill Nets, which is a great trouble to Subjects, but a mercy to Kings if their people be Chriſtian and mercifull.</p>
+            <p>Thy Mother is like a vine in the blood, <label type="milestone">
+                  <seg type="milestoneunit">Ver. </seg>10</label> planted by the waters, ſhe was fruitfull and full of branches by the reaſon of many waters.</p>
+            <p>And ſhe had ſtrong rods for the Scepters of them that beare rule, <label type="milestone">
+                  <seg type="milestoneunit">Ver. </seg>11</label> and her ſtature was exalted among the thicke
+<pb n="5" facs="tcp:114282:6"/>branches, and ſhe appeared in her height with the mul<g ref="char:EOLhyphen"/>titudes of her branches.</p>
+            <p>But ſhe was plucked up in fury, <label type="milestone">
+                  <seg type="milestoneunit">Ver. </seg>12</label> ſhe was caſt down to the ground, and the <hi>Eaſt-wind</hi> dryed up her fruit, her ſtrong Rods were broken and withered, the fire conſumed them.</p>
+            <p>And now ſhe is planted in the Wilderneſſe in a dry and thirſty ground.</p>
+            <milestone type="tcpmilestone" unit="Ver." n="13"/>
+            <p>
+               <hi>Calvin</hi> takes blood for pollution as cap. 16.6. But I muſt crave leave to think that the Prophet ſpeakes in vinerous language.</p>
+            <p>It is a great felicity for States to flouriſh in people and plenty.</p>
+            <p>It is a peculiar mercy when they are well ſtored with ſtrong Rods, or Scepters of rule.</p>
+            <p>It is an eaſie matter for Kingdomes to abuſe proſpe<g ref="char:EOLhyphen"/>rity, which too often deſtroys the fooliſh.<note place="margin">Prov. 1.3</note>
+            </p>
+            <p>And it is as eaſie with God to deſtroy ſuch king<g ref="char:EOLhyphen"/>domes with a precipice, King and kingdomes are as little matters in his hands if he be provoked.</p>
+            <p>
+               <hi>And fire is gone out of a Rod of her branches,</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Ver. </seg>14</label> 
+               <hi>which hath devoured her fruit, ſo that ſhe hath no ſtrong rod to be a Sce<g ref="char:EOLhyphen"/>pter to rule: this is a lamentation, and ſhall be for a lamenta<g ref="char:EOLhyphen"/>tion.</hi>
+            </p>
+            <p>A Scepter is an Enſigne of publique authority, it is called <hi>Baculus Regius, le Baſton Royal.</hi>
+            </p>
+            <p>
+               <hi>Sceptrum Jovis,</hi> from whence I take other Scepters were derived, was wont to ſolemnize great matters.</p>
+            <p>A Scepter is ſometimes in ſcripture and other Au<g ref="char:EOLhyphen"/>thors taken for <hi>Monarchical</hi> power.</p>
+            <p>Sometime for <hi>Ariſtocraticall</hi> and the power of ſub<g ref="char:EOLhyphen"/>ordinate Princes.</p>
+            <p>Sometime for the Standard rule or law whereby they rule.<note place="margin">Heb. 1.8.</note>
+            </p>
+            <pb n="6" facs="tcp:114282:7"/>
+            <p>Out of this 14<hi rend="sup">th.</hi> ver. wherein there are no <hi>Criti<g ref="char:EOLhyphen"/>ciſmes,</hi> omitting other collections, or animadverſions, which may be more offenſive then profitable, I will onely take this generall Obſervation.</p>
+            <p>
+               <hi>When a State hath brought it ſelfe to that paſſe that the Scepters of authority, and powers of Government are waſted and weakned, it is a lamentation, and ſhall bee for a lamen<g ref="char:EOLhyphen"/>tation.</hi>
+            </p>
+            <p>The truth of this doth now ſtare us in the face with ſo grim a viſage that I need not be long in confirming it.</p>
+            <p>All the Schoole-men and wiſe-men in the world can hardly determine whether man bee moſt beholding to God for his being or his well-being, much may be ſaid on both ſides from Scripture and reaſon, but there is no preſent need of this diſpute.</p>
+            <p>The being of man, God hath placed, in his naturall conſtitution, his well-being in his politicall inſtitution.</p>
+            <p>Politicall Inſtitution is compleated in
+<list>
+                  <item>Ordination,</item>
+                  <item>Adminiſtration,</item>
+               </list>
+            </p>
+            <p>Ordination,
+<list>
+                  <item>1. Framing a State into the moſt proper forme of Policy it is capable of.</item>
+                  <item>2. In the Sanction of apt and regular laws, for Peace and Warre.</item>
+               </list>
+            </p>
+            <p>Adminiſtration,
+<list>
+                  <item>1. In placing pious and vertuous men in all Politicall Offices.</item>
+                  <item>2. In their Juſt and diligent execution of their Charges.</item>
+               </list>
+            </p>
+            <p>A faile in any of theſe, makes a mutulation in ſtate.</p>
+            <pb n="7" facs="tcp:114282:7"/>
+            <p>VVee are to ſpeak moſt properly of the laſt, the Text confines us to it.</p>
+            <p>If weak or unfit men be elected into publique places, if Rulers prove defective in their Actuall Adminiſtrations;</p>
+            <p>If every wheele of Government keep not its proper ſta<g ref="char:EOLhyphen"/>tion and due motion, but prove ſo vicious or ſtupine that they loſe their ſtrength, it brings a Common-wealth to a Common miſery.</p>
+            <p>The Scripture reveales the univerſall or generall Po<g ref="char:EOLhyphen"/>licy wherewith God hath ordered the world.</p>
+            <p>VVee may ſee it in a breife ſcale or Clymax.</p>
+            <p>
+               <label>I.</label> Knoweſt thou the Ordinances of Heaven,<note place="margin">Job. 38.33.</note> and their Dominions on earth? If theſe Caeleſtiall bodies ſhould ſet themſelves on fire by their over violent motions, or rout themſelves into diſorder by their diſtempers, or proove ſluggiſh and uneven in their revolutions, or un<g ref="char:EOLhyphen"/>faithfull in their influences and defluences, the inferior Creatures would ſoone come to putrifaction and deſtru<g ref="char:EOLhyphen"/>ction: This is naturall.</p>
+            <p>
+               <label>II.</label> God bleſſed man and gave him dominion over the Fiſh of the Sea, the fowles of the Aire,<note place="margin">Gen. 1.28.</note> and every living thing that moveth upon the Earth. Man by forfeiting this Segniory hath made himſelfe obnoxious to Fiſh, Fowle, and Beaſts, and all theſe mutinous and perillous one to another: This is humane or virile.</p>
+            <p>
+               <label>III.</label> God gave Rulers and Superiors dominion over Infe<g ref="char:EOLhyphen"/>riors, ſome naturally, ſome Politically;<note place="margin">Rom. 13.1.2. Prov. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.16.</note> if theſe through ambition fall into uſurpation, or through Corruption into mali adminiſtration,<note place="margin">Eph. 3.10.</note> or through negligence into non-Ad<g ref="char:EOLhyphen"/>miniſtration.
+<pb n="8" facs="tcp:114282:8"/>States would be ſoone diſtated and proſtra<g ref="char:EOLhyphen"/>ted to confuſion: This is Politicall or Civill.</p>
+            <p>
+               <label>IIII.</label> God gave yet a higher Dominion to his Angells,<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 10</note> making them principallities and powers in ſublime pla<g ref="char:EOLhyphen"/>ces; they are his Nobility; If theſe ſhould caſt away their Dominions as ſome of them did, the world would ſoone be turned into a Hell: This is Angellicall.</p>
+            <p>
+               <label>V.</label> God gave Chriſt who is right Heire to all Crownes,<note place="margin">
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 9 <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Iſa. 22.2<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Eph. 1.21.<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> the Soveraigne Empire over all, he laid the government on his ſhoulders, put the Key of all rule into his hand; He is <hi>Dei Claviger,</hi> as the Grand Tyrant of <hi>Ruſsia</hi> miſtiles himſelfe; If he through unskilfullneſſe, or unfaithfull<g ref="char:EOLhyphen"/>neſſe ſhould confiſcate his Dominion, it would ſoone be the diſſolution of all, as his reſignation ſhall one day bee: This is Sovereigne and Divine.</p>
+            <p>Theſe Ordinations are Gods foundations, which if they ſhould faile, what can the righteous doe? he muſt do as others do for ought I know; ſome tranſlations have it where ſhall the righteous appeare? The righteous have an Intereſt and acceſſe into all the ſanctuaries and Citta<g ref="char:EOLhyphen"/>dells under the Heavens, yet he muſt appeare in the open Streets, or on Hownſloe-Heath, or under a hedge, or in a Ditch, or where he can ſhift beſt for himſelfe.</p>
+            <p>VVere it not altogether unmeet to damask faſt Sermons with humane Hiſtories, I might inſtance this truth in all or moſt of the ſtates of the world, The Egyptian, Perſian, Hebrew, Greeke, Latin, and in divers nearer hand, If my obſervation and memory miſuſe me not, I thinke I might give you Preſidents from Claſſicall Authors of 66. Em<g ref="char:EOLhyphen"/>pires, Kingdomes, Dukedomes, and Provinces, that have ſuffered wrack upon the Flatts of Authority, happily ma<g ref="char:EOLhyphen"/>ny
+<pb n="9" facs="tcp:114282:8"/>of them driven by the tempeſt of Tyranny, But God delighteth not to be worſhiped on theſe dayes in imbro<g ref="char:EOLhyphen"/>thered Sack-Cloth, He bidds us lay aſide Ornaments and pleaſant things at ſuch times.</p>
+            <p>Yet give me leave to mention one inſtead of the reſt, The Greek Empire having flouriſhed many yeares, eſpe<g ref="char:EOLhyphen"/>cially after it was enlarged by the Median Kingdomes, When <hi>Alexander</hi> the great Scepter failed, <hi>Leoſthenes</hi> a very wiſeman ſaid, that the heart of it did preſently <hi>Pal<g ref="char:EOLhyphen"/>pitare moribunde,</hi> the ſpirits of it <hi>huc atque illuc jactitare miſerrimè,</hi> that it did <hi>ſcatere vermibus, ignavis Regibus, Ducibusque torpidis,</hi> and forthwith <hi>marceſere, et contabeſce<g ref="char:EOLhyphen"/>re intra ſe,</hi> But I ſhall forbeare and hold my ſelfe to Scripture, and ſcripturall reaſons.</p>
+            <p>When Dominion or Authority failes,<note place="margin">Ordor.</note> All Politicall Order failes. <hi>Scaliger</hi> ſaith, That <hi>Ordo eſt Anima mundi,</hi> another Author, that it is <hi>Anima Reipublicae;</hi> let order be diſſolved, confuſion followes.</p>
+            <p>The Holy Ghoſt ſaith that Chriſt ſhall ſit upon the Throne of <hi>David</hi> and his Kingdome,<note place="margin">Iſa. 9.7.</note> He ſhall Order it and eſtabliſh it; There is no eſtabliſhing of Kingdomes, but by Order.</p>
+            <p>
+               <hi>Job</hi> ſpeaking of the Territories of darkneſſe, and the ſhaddowes of death ſaith, It is a Land without Order.<note place="margin">Job. 10.20.</note> Vnity is the ground of perfection and perpetuity, Order is unity branched out into all the parts of conſociate bo<g ref="char:EOLhyphen"/>dies to keep them in unity and perfection; where Order failes they are diſjoynted and convulſed; <hi>Symmetry</hi> and <hi>Harmony</hi> are the two ſupporters of the world; <hi>Plato</hi> ſaid God was alwayes ſetting things in their due ſtations and proportions; We ſhall often obſerve in Scripture when God threatens deſtruction, hee threatens it under the word Confuſion.</p>
+            <p>VVhen a man is confounded, the Animall, Vitall, and Naturall ſpirits are powred together, a man for that
+<pb n="10" facs="tcp:114282:9"/>while is unman'd, ſo when popular bodies are confuſed they are for that time impolitized. The ſtates of the Ne<g ref="char:EOLhyphen"/>therlands are wiſely called <hi>Ordines,</hi> ſo ſhould all other States-men be.</p>
+            <p>VVhen Dominion failes, Religion failes.<note place="margin">Religion.</note>
+            </p>
+            <p>Authority maintaines piety, Government preſerves Chriſtianity, If not, It failes officially. <hi>David</hi> divided the Prieſthood into their courſes and Offices,<note place="margin">1 Chro. 23 ca, 24.</note> It is ſaid theſe are their Orderings, Chriſt hath done the like in the Goſpel, but when Authority failed,<note place="margin">Epheſ. 4.</note> theſe orderings failed.</p>
+            <p>In the time of <hi>Jeroboam</hi> the loweſt of the people were made Prieſts, ſuch as were not of the ſons of <hi>Levi,</hi> who ever would might be conſecrated.</p>
+            <p>It failes Theorically, In the times of theſe lamented Kings the Law of God was prevaricated,<note place="margin">Ezek. 21.26. Zeph. 3.4.</note> they offered violence to the Law. In the time of the <hi>Maccabees</hi> the Law gathered ſo much corrupt droſſe, and ſuch falſe gloſ<g ref="char:EOLhyphen"/>ſes, that Chriſt takes much paines to refine it.</p>
+            <p>It failes Practically. In the time of the Judges when Authority declined, Piety degenerated, thoſe were very ſinfull times,<note place="margin">Judg. 7.</note> There was no King nor Government in <hi>Iſ<g ref="char:EOLhyphen"/>raell,</hi> every man did what was right in his owne eyes, They took what Gods, what Prieſts, what Concubines, what Heritages, and undertook what warre they pleaſed; When the Ordinances and everlaſting Covenant was broken, then was the Earth defiled, and the Lawes tranſ<g ref="char:EOLhyphen"/>greſſed.<note place="margin">Juſtice.</note>
+            </p>
+            <p>When Authority failes, Juſtice failes.</p>
+            <p>When the foundations are out of courſe,<note place="margin">Pſal. 82.</note> then Gover<g ref="char:EOLhyphen"/>nours will not know the mind of God, nor underſtand how people ſhould be Governed, then will they Judge unjuſtly, accept the perſons of the wicked, and not de<g ref="char:EOLhyphen"/>fend the Cauſe of the Fatherleſſe, Widdow, poore and afflicted;<note place="margin">Amos 6.12.</note> Then Judgement is turned into Gall, and Righ<g ref="char:EOLhyphen"/>teouſneſſe
+<pb n="11" facs="tcp:114282:9"/>into He mlock: Then every man Hunt his Brother with a Net, they do evill with both their hands earneſtly; Princes aske, Judges aske great men aske,<note place="margin">Mic. 7.3.</note> the beſt are as Bryers, and the moſt upright as Thornes.</p>
+            <p>When the mighty men, the Judges and, Ancients faile, and Children are Princes, Rulers Babes then the People ſhall be oppreſſed every one by another,<note place="margin">Iſa. 3.2.</note> and every one by his Neighbour, the Child ſhall behave himſelfe proudly againſt the ancient, and the baſe againſt the Honourable.</p>
+            <p>When Politicall rule failes, then the ſtrength of a State failes. When a Kingdome of Gold degenerates to Silver,<note place="margin">Strength.</note> Silver to Braſſe, Braſſe to Iron and Clay, a ſtone cut out without hands breaketh all in peeces.</p>
+            <p>It was ſaid of the <hi>Aſsyrian</hi> State,<note place="margin">Dan. 2.34.</note> the ſtrongeſt State of thoſe times, that their tackling being ſo looſe, that their Maine-maſt could not ſtand ſtrong, nor their Sayle be well ſpred, that the lame might take the prey and divide the ſpoyle; this Prophet ſaith of theſe times, that upon the approaches of Warres all hands ſhall be feeble,<note place="margin">Iſa 7.2.</note> all hearts ſhall meditate Terror. The hearts of people in ſuch times are moved as Trees are moved by the Wind; ſuch States are like bodyes out of joynt, full of diviſions, diſcontent, and Rulers have little or no power to rule them whom they have miſruled.</p>
+            <p>When Dominion failes, the wealth of a State failes.<note place="margin">Wealth.</note> Taxations, and oppreſſions are uſually great, <hi>Rehoboams</hi> little ſinger was heavier then <hi>Solomons</hi> Loynes,<note place="margin">2 R. 23.35 Iſa. 42.24. Iſa 24.</note> 
+               <hi>Jehoia<g ref="char:EOLhyphen"/>chim,</hi> exacted the Silver and the Gold of the People. In ſuch times God gives <hi>Jacob</hi> for a ſpoyle, and <hi>Iſrael</hi> to the Robbers. He makes the Earth empty and waſt, States are ſpoyled, they faile and mourne and languiſh away, No man hath any mind to trade or Husbandry, they know not whats their owne, nor how long they ſhall keepe it,
+<pb n="12" facs="tcp:114282:10"/>ſome Canker or Palmer-worme, the Caterpiller or one Eaſt-wind or another devoureth all. When the <hi>Greeke</hi> Empire was broken, one compared it to a great Cheſt of Gold and Silver, whoſe ſides falling out, the <hi>Purpurati,</hi> and all that could, fell ſcrambling to the prey with all their might.</p>
+            <p>When good Government failes,<note place="margin">Honour.</note> then the beauty and honour of a ſtate failes.</p>
+            <p>Jeruſalem the City of God was beautifull,<note place="margin">Pſa. 48.2.</note> the joy of the whole earth, but in theſe times all her beauty depar<g ref="char:EOLhyphen"/>ted, the Lord covered <hi>Sion</hi> with a cloude, and caſt downe from heaven to earth all her beauty, all that hono<g ref="char:EOLhyphen"/>red her deſpiſed her, all that paſſed, by clapt their hands, hiſſed, and wagged their heads at her, &amp; ſaid, is this the City that men call the perfection of beauty, the joy of the whole earth? that flouriſhing State became a ſong. A State is happy when it is <hi>undique</hi> happy, <hi>Domi &amp; foris,</hi> as this was in <hi>Solomons</hi> time.<note place="margin">Lamen. 2.</note> A man may doe as much by his name, as by the goodneſſe of his talent or gifts, ſo may a ſtate to themſelves and others.</p>
+            <p>When Government failes,<note place="margin">
+                  <hi>Peace.</hi> 2 Chro. 15.5, 6.</note> then peace failes, which is the ſoile of all felicity. In <hi>Abijahs</hi> and <hi>Aſa's</hi> reign, <hi>Iſrael</hi> was without the true God, teaching Prieſts, without the law and Government; in thoſe dayes there was no peace to him that went out nor to him that came in, but great vexations were upon all the inhabitants of the Countrys, &amp; Province was deſtroyed of Province, &amp; City of City, for God did vex them withall adverſity; thus it hath beene with the State of <hi>Florence, Syracuſe</hi> and many o<g ref="char:EOLhyphen"/>thers: and thus it is now with <hi>Germany,</hi> and little better with ours.</p>
+            <p>I take theſe ſeven things may well be accounted the ſeven Pillers whereon wiſdome bulldeth her houſe,<note place="margin">Prove. 9.1.</note> if
+<pb n="13" facs="tcp:114282:10"/>theſe faile, the houſe however wiſely built at the firſt, muſt needs fall with a ſorrow.</p>
+            <p>And that which boyleth up the miſery to the full height is this, that in ſuch times States are of themſelves irreparable, now is <hi>Ephraim,</hi> like a ſilly Dove without heart, now is the State of <hi>Egypt</hi> intoxicated, the wiſe-men and greateſt Counſellors infatuated, the Lord mingles a perverſe ſpirit amongſt them, there is nothing but contradiction and prevarication,<note place="margin">Iſa. 19.11.16.</note> objections inter<g ref="char:EOLhyphen"/>jections, puzlings and counterpuzlings, pluranimities and pluranimoſities amongſt them, nor ſhall there be any work which the head or taile, branch or ruſh may doe.</p>
+            <p>In that day they ſhall be like unto women which doe nothing but talke,<note place="margin">Jer. 8.22.</note> brabble and ſquabble their councel and States in peeces; in ſuch times there is no Balme nor <hi>Phyſitian,</hi> by whom the health of a people can be re<g ref="char:EOLhyphen"/>covered; in ſuch times the Starres of heaven and the con<g ref="char:EOLhyphen"/>ſtellations thereof ſhall not give their light, the Sun ſhall be darkned in his going forth,<note place="margin">Iſa. 13.10.</note> and the Moone ſhall not cauſe her light to ſhine; in theſe times the Lord will cover the heaven and make the Starres thereof darke, ob<g ref="char:EOLhyphen"/>ſcure the Sunne with a cloud, and extinguiſh the light of the Moone, and darken all the bright Starres of hea<g ref="char:EOLhyphen"/>ven, that he may ſet darkeneſſe upon a land:<note place="margin">Ezek. 32.7, 8.</note> all which may be ſafely underſtood politically. In ſuch dayes or rather nights wiſe-men are aſhamed, they are diſmayed and taken. When the <hi>Macedonian</hi> State was broken, a wiſe-man ſaid it was like a blind <hi>Cyclops</hi> that reacheth forth his armes and hands, to find ſomewhat to ſtay upon but cannot. <hi>Juſtus Maenius</hi> writing of the troubles of <hi>Germany,</hi> juſt a hundred years ſince, this preſent yeare, ſaith, it had beene better for a man to have dyed by the firſt ſtroke then to bee ſaved through ſo many diſtreſſes.</p>
+            <pb n="14" facs="tcp:114282:11"/>
+            <p>Theſe are the dayes wherein God will not bee in<g ref="char:EOLhyphen"/>quired of,<note place="margin">Cap. 20.3.</note> nor intreated to give any counſel, theſe are the dayes of perplexity and giddineſſe, wherein the beſt counſell a man can give or take is that of the Prophet <hi>Micah,</hi> to looke unto the Lord, to waite for the God of his ſalvation, to bear the indignation of the Lord, becauſe he hath ſinned againſt him, untill he pleads his cauſe and bring him forth to the light, and to perſwade him<g ref="char:EOLhyphen"/>ſelfe that at length he ſhall behold his righteouſneſſe.</p>
+            <div type="application">
+               <head>Application.</head>
+               <p>TO this paſſe was this ſtate now brought.</p>
+               <p>Wee come now to the ſecond part, What ſuch a collaps'd State ſhould doe, which ſhall ſtand for Appli<g ref="char:EOLhyphen"/>cation.</p>
+               <p>This is a lamentation, and ſhall be for lamentation; for this very calamity the Lord commands this Prophet into theſe paſſions,</p>
+               <p>Sigh,<note place="margin">Cap. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>1.</note> thou Sonne of man with the breaking of thy Loynes, ſigh with bitterneſſe before the people, cry and houle ſonne of man, becauſe it is a tryall (a tryall indeed) thou therefore ſonne of man ſmite thy hands to<g ref="char:EOLhyphen"/>gether and lament.</p>
+               <p>There is a time to rejoyce, wee have had ſuch times long, I wiſh wee had better improoved them, there is alſo a time to mourne, into which time our Sinnes, and Gods righteous Judgements have now brought us.</p>
+               <p>Let us firſt Mourn and Lament for our Royall Scepter that he is thus weakned and unfitted to Rule;<note place="margin">Royal</note> let us la<g ref="char:EOLhyphen"/>ment his Perſonall ſorrows, pity ſhould be ſhowne to him that is in affliction; let us lament that he is deprived of his Royall Conſort and Children, the ſupports and
+<pb n="15" facs="tcp:114282:11"/>delights of nature, the ſweet Objects of humane affecti<g ref="char:EOLhyphen"/>on; deprived of his wonted honour and attendance, his Nobility and Compeers; deprived of his wonted Meniall Servants, and attended with Military guards, unwel<g ref="char:EOLhyphen"/>come and ungracefull to him; deprived of his wonted li<g ref="char:EOLhyphen"/>berty; theſe things muſt needs make him a man of ſor<g ref="char:EOLhyphen"/>rows; howſoever his heart is ſupported, hee cannot but looke upon himſelfe as a man under Gods black rodde; if God would ſoften our hearts to lament him as wee ſhould, it is probable he would ſoften his heart to lament his Subjects as he ought. God commands both this Pro<g ref="char:EOLhyphen"/>phet and this ſtate to take up a lamentation for the Princes of <hi>Iſrael,</hi> Princes that were wicked enough, and more then enough inſtrumentall, to the ruine of that Common wealth, and their owne houſes; let their demerits be what they will, it is Gods mind and Subjects duty to lament them, They are bone of our bone, and fleſh of our fleſh, and as men ought to be pittyed. <hi>David</hi> a man after Gods own heart, thinks it good Religion to lament <hi>Saul,</hi> Gods and his profeſſed Enemy; I much feare that that man is much wanting in Grace and loyalty, which hath not ſhed teares in the behalfe of our King, or done that in part of griefe which amounts to teares. If he laments himſelfe too little, let us be waile him ſo much the more. Let us alſo lament him in reſpect of his Political ſorrows;<note place="margin">Jer. 48.17.</note> God ſaith of <hi>Moab,</hi> all that are about him bemoane him, and all that know his name ſay, how is the ſtrong ſtaffe and beautifull Rod broken? bleſſed be God, our ſtaffe and Rodde is not yet utterly broken, but greatly warped and weakened: The Lord in his mercy reſtore him and bind him up again.<note place="margin">Cap. 32.2.</note> The Lord chargeth this Prophet to take up a Lamentation for <hi>Pharaoh</hi> King of <hi>Egypt</hi> ta<g ref="char:EOLhyphen"/>ken in a net, though he had formerly taken one of theſe
+<pb n="16" facs="tcp:114282:12"/>Kings of <hi>Iſraell</hi> in his Net, much more for the Kings of <hi>Iſraell</hi> as bad as they were.<note place="margin">Lam 4.20.</note> The Prophet <hi>Jeremiah</hi> La<g ref="char:EOLhyphen"/>menting <hi>Zedcahiah</hi> this finfull and miſerable Prince, ſaith, the breath of our Noſtrills is taken in their Net, Of whom we ſaid under his ſhaddow we ſhould live. A na<g ref="char:EOLhyphen"/>turall Body hath vitall parts, as Heart and Lungs, &amp;c. Yet if the breath be not in the Noſtrills all the wheeles of life move not, but are ſuſpended from their functions; ſo it is with a Politicall body, The Prince puts life into all Au<g ref="char:EOLhyphen"/>thority, and gives the <hi>Fiat</hi> to all Lawes and Ordinances in an ordinary courſe; If in an Extraordinary, a State wants this breath, it breaths but faintly, Authority is not in the full, but much Eclipſed, at leaſt in the thoughts of Subjects.<note place="margin">Jet. 6.26.</note> It becomes the Daughter of Gods people in ſuch a Caſe to Gird her ſelfe with Sack-Cloth, to wal<g ref="char:EOLhyphen"/>low her ſelfe in Aſhes, to take up a Mourning and a bit<g ref="char:EOLhyphen"/>ter Lamentation as for her only Son, for ſo is our King during his Reigne. I will cauſe the Sun to go downe at Noone ſaith God, and I will darken the Earth in the cleer day,<note place="margin">Amos 8.9, 10.</note> and I will turne your Feaſts into Mourning, and all your Songs into Lamentation, and I will bring up Sack-Cloth upon all loynes, and baldneſſe upon every head, and I will make it as the mourning of an only Son, and the end thereof as a bitter day. I verily beleeve this frame of Spirit would at this time be farre more pleaſing to God then our ſlightneſſe and Jollity.<note place="margin">Iſa. 28.5.</note> God ſaith of Chriſt, hee ſhall be for a Crown of Glory, and for a Crown of beau<g ref="char:EOLhyphen"/>ty to his people; ſo are all Kings in their Meaſure, or ſhould bee. All Common Societies, yea every good Subject hath a ſubordinate Crowne or Coronet upon his head; while our King and his Crown are diſtanced, in this ſort, every Subject ſtands bare, and the whole Land uncove<g ref="char:EOLhyphen"/>red, which is a great abatement of Honour; Let us there<g ref="char:EOLhyphen"/>fore
+<pb n="17" facs="tcp:114282:12"/>lament him for his ſake and our owne.</p>
+               <p>Let us alſo here Lament a Branch of our Royall Scep<g ref="char:EOLhyphen"/>ter;<note place="margin">Jer. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>8.2.</note> O Vine of <hi>Sybnah,</hi> I will weep for thee with the weeping of <hi>Jazer,</hi> thy Plants are gone over the Sea, the Lord keep him there without infection, and returne him in ſafety. The Prophet <hi>Ieremiah</hi> bewayling <hi>Jeruſalem,</hi> in her comfortles Condition, ſaith, There is none to guide her of all the Sons ſhe hath brought forth, neither is there any to take her by the Hand of all the Sons ſhe hath brought up; our Caſe is not altogether ſo, but too neer it.</p>
+               <p>Let us in the next place ſadly lament our Nationall Scepter,<note place="margin">Nationall.</note> this preſent Parliament. Our State may be com<g ref="char:EOLhyphen"/>pared to the Theater of the Philiſtines which was ſuppor<g ref="char:EOLhyphen"/>ted by two Grand Pillars, ſo are we by our King and this Honourable Parliament, If theſe two faile, Our Theater will hardly avoyd falling, ſo may much more harme be don to our Lords and People at the latter end, then in all our former late troubles. Howle yee Fir-trees, ſaith the Prophet <hi>Zachari,</hi> for the Cedar is fallen, the mighty are ſpoyled; Howle ye Oakes of <hi>Baſhin,</hi>
+                  <note place="margin">Zach. 11.2.</note> a voyce of Howling of the ſhepheards, for their Glory is ſpoyled; a voyce of roaring of young Lyons, for the pride of <hi>Jor<g ref="char:EOLhyphen"/>dan</hi> is ſpoiled; you are our Fir-trees, our Cedars, our migh<g ref="char:EOLhyphen"/>ty men, our Oakes, our ſhepherds; If you be falne we can<g ref="char:EOLhyphen"/>not ſtand, if you be ſpoyled, we are undone; If our ſhep<g ref="char:EOLhyphen"/>herds be ſmitten, we your flock are ſcattered &amp; loſt. You know how it was with <hi>Rome</hi> in <hi>Anthonies</hi> time, and in the Reigne of <hi>Valentinian</hi> the third, and <hi>Placidia</hi> his Mother, how with the State of <hi>Germany,</hi> when the Empire was tranſlated to <hi>Charles</hi> the fifth. If the whole head be ſick, and the whole heart faint, there will be no ſoundneſſe from the ſole of the foot to the Crowne of the Head, but wounds and bruiſes, and putrifying ſores, which can
+<pb n="18" facs="tcp:114282:13"/>neither bee cloſed, nor bound up, nor Mollified.</p>
+               <p>Lament your conſtitution,<note place="margin">Conſtitu<g ref="char:EOLhyphen"/>tion.</note> that it is ſo <hi>Heterogeneus, disſimular,</hi> and contramixt. Where the Members are <hi>Mem<g ref="char:EOLhyphen"/>bra dividentia</hi> the whole can hardly bee whole; An <hi>He<g ref="char:EOLhyphen"/>terocranian</hi> in our nationall head will neceſſarily breed greater troubles in our nationall bodies.</p>
+               <p>I conceive it would pleaſe God and the Land well if you would pleaſe to give ſome generall directions, if it were but by way of requeſt to the people, for the choice of Parliament-men; you are not ignorant what Laws and limitations not onely the Scripture but Hea<g ref="char:EOLhyphen"/>then States have inſtituted in this behalfe, they ſhould bee <hi>natu majores, primogeniti, ſapientes, probi, ſeniores. &amp;c.</hi>
+               </p>
+               <p>Lament that the Providence of God, and the im<g ref="char:EOLhyphen"/>providence of men having made it ſo, the grace of Chriſt cannot or doth not amend it. I will plant together the Ceder,<note place="margin">Iſa. 41.19.</note> the Shitrah tree, the Mirtle, the Oyle tree, the Firre, the Pine, and the Box tree all together, that you may conſider that the Hand of the Lord hath done it; It would be a great Honour to the Religion of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> if the world might know, though there bee va<g ref="char:EOLhyphen"/>rieties of conſtitutions, difference of degrees, and di<g ref="char:EOLhyphen"/>verſities of Judgements among you, yet that your hearts were united in the feare of the Lord; when God meanes to reſtore his people to happineſſe, he ſaith hee will u<g ref="char:EOLhyphen"/>nite the ſtick of <hi>Joſeph</hi> in the hand of <hi>Ephraim</hi> with the ſticke of <hi>Judah,</hi>
+                  <note place="margin">Ezek. 37.17.</note> and make them one in his owne hand; when hee meanes to ruine them hee threatens to breake their ſtaffe of Beauty and their ſtaffe of Bands, and the Brotherhood between<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Judah</hi> and <hi>Iſrael.</hi>
+                  <note place="margin">Zach. 11.7.14.</note> If a thinne and ſharpe vapor get into any of the two Membranes which cover the braine, it cauſeth convulſive motions in the body; when the ſpirits move unevenly a verti<g ref="char:EOLhyphen"/>go
+<pb n="19" facs="tcp:114282:13"/>in the head: you are the life-guard of our King and Kingdome, If you agree not in your Counſells we ſhall hardly agree in our courſes; If ye mutiny in words we ſhall bee too ready to mutiny with our Swords.</p>
+               <p>Lament your Adminiſtrations,<note place="margin">Admini<g ref="char:EOLhyphen"/>ſtrations.</note> in ſpeciall Lament that you have not endeavoured ſo ſpeedily and ſufficiently to eſtabliſh the Scepter of Chriſt, which is the <hi>primum mobile</hi> of all good Government. He cannot reigne with ſtrength if his Scepter bee weake: To put but a Reed into his hand is next doore to the ſetting of a Crowne of Thornes on his head; let him have his compleate Dominion, and he will have a care of your regular Au<g ref="char:EOLhyphen"/>thority, both to preſerve it and improve it. The delayes and diſagreements about this, have weakned all the Scep<g ref="char:EOLhyphen"/>ters and ſtrengthened all the ſtirrs in the Land.</p>
+               <p>Lament if you have not ſufficiently attended the re<g ref="char:EOLhyphen"/>eſtabliſhing of the Royall Scepter, which is our <hi>ſecun<g ref="char:EOLhyphen"/>dum neceſſarium.</hi> The providences of God are immenſly deepe, hee can turne our delayes into his expeditions, a Kings peremptorineſſe and a Parliaments ſlackneſſe, into a greater good then all the eyes of the Land can foreſee, yet certainly it is no leſſe then an amazement to many conſiderate men, that that worke ſhould go ſo ſlowly on. If a Common-wealth bee headleſſe the people will be brainleſſe. I dare profeſſe in the eares of God and this Honourable Senate, that I know not how any man can bee more jealous then my ſelfe, that he ſhould bee reſtored upon imperfect and un<g ref="char:EOLhyphen"/>ſafe tearmes, but if it may bee done upon good tearmes and Gods termes, the ſooner it is done the ſooner all will bee quiet; Farre be it from mee to preſſe an interru<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>i<g ref="char:EOLhyphen"/>on or intermiſſion of ſuch <gap reason="illegible" resp="#MURP" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ires as are inſtant and ur<g ref="char:EOLhyphen"/>gent, onely I humbly intreat you to remember again that
+<pb n="20" facs="tcp:114282:14"/>it is our <hi>ſecundum neceſſarium,</hi> and that till you two our great wheeles be ſet right, all the leſſer are like enough to go wrong.</p>
+               <p>If you have not beene early enough in rewarding the Army, with juſt payments, and due honour, I humbly intreat you to lament it: If any of this honourable Houſe have erred in diſcouraging, or diſparaging them, I intreat them to lament it, yea though it be now healed, it is no diſhonour to honeſt men, (as we preſume you are) to re<g ref="char:EOLhyphen"/>pent of what incogitancy hath done amiſſe.</p>
+               <p>If the zeale of maintaining the Power, and Liberty of the Parliament, and the Peace of the Common-Wealth hath moved you to prevent, or reject ſome Petitions, though they were ill countenanced, and thereby cauſed the people to feare a loſſe of their popular Liberty, I like<g ref="char:EOLhyphen"/>wiſe humbly intreat that you would lament it, and to re<g ref="char:EOLhyphen"/>member what a King, and Kingdome within the pale of Chriſtendome, I meane <hi>Henry</hi> King of <hi>Swede,</hi> ſuffered, for an errour of this kind, though I confeſſe much worſe in degree.</p>
+               <p>If through connivence, and indulgence you have too long ſpared ſome that have too boldly blaſphemed our ſupreme Court and Councell, and thereby emboldened others to ſpeake more evill of you then there is cauſe, you ſhould do very well to lament it, and reforme it.</p>
+               <p>If you and your Officers have been any thing unthrifty in the accounts and disburſements of the Kingdomes Treaſury, I pray let it be lamented and amended.</p>
+               <p>If you be ſo deſerted that you are neceſſarily expoſed to ſuch yeeldings as may prove prejudiciall preſidents to future Parliaments, and deepe detriments to the whole Realme, it would be cordially lamented.</p>
+               <p>If by theſe or any other defects you have laid your
+<pb n="21" facs="tcp:114282:14"/>ſelves low, in the eſtimations and animadverſions of the people, it would be ſadly lamented. I ſomewhat feare that you may take up part of <hi>Job's</hi> parable, and ſay,<note place="margin">Job. 29.</note> Oh that you were as in moneths paſt, when God honoured you, when his candle ſhined upon your heads, and when by his light you walked thorough darkneſſe, when the al<g ref="char:EOLhyphen"/>mighty was ſo preſent with you, when the eare that heard you bleſſed you, when the eyes that ſaw you gave witnes to your proceedings, when you put on Righteouſ<g ref="char:EOLhyphen"/>neſſe as a Robe, and Judgement as a Diadem, when your glory was freſh in you, and your bow renewed in your hand, when the people waited for you, as for the raine, and when you choſe out their way, and dwelt as a King in the Army, comforting the Mourners! But now thoſe that are far ſhort of you in age, and worth, yea ſome, that are children of Fooles, and baſe men, viler then the Earth, make you their by word ſpare not to ſpit in your face, (Oh that you will ſpare ſuch!)<note place="margin">Job 30.</note> let looſe the bridle before you puſh away your feet, and raiſe up againſt you the wayes of their owne deſtructions, for which the Soule of this good man powred out it ſelfe upon him, and complaines, that they were dayes of great afflictions, that God had caſt him into the mire, and made him be<g ref="char:EOLhyphen"/>come like duſt and aſhes. I hope you are not yet at ſo low an ebbe, I pray God give you hearts to lament the leaſt loſſe of your Authority. I ſhall not need to re-mind you, that the loſſe of the power, and honour of a Parliament is the greateſt loſſe our Kingdome can ſuſtaine, the loſſe of a King clothes the whole Land in ſable, but the loſſe of a Parliament in a winding-ſheet.</p>
+               <p>Our lives and all that wee are, and have, are bound up in your reputation, and all that your ſelves are, and have, alſo; But I muſt excuſe you the more, becauſe it
+<pb n="22" facs="tcp:114282:15"/>is a time wherein the Lord of Glory is ſtaining the pride of all glory; the Nobility, Gentry, and Commons of <hi>En<g ref="char:EOLhyphen"/>gland</hi> want no grace more then Humility, which is the ſoyle of all graces, and the beſt way to Exaltation.</p>
+               <p>Let us alſo lament our preſent Martiall Scepter.<note place="margin">Martiall.</note> Wee have flighted Gods Morall, and Evangelicall Law, he hath now brought us in ſome ſort under-Martiall Law: Let us lament, that ſo good an Army ſhould be ſo ill<g ref="char:EOLhyphen"/>guided, as to do what they do without warrant from God or ſtate, ſo farre as wiſe-men can yet diſcerne.</p>
+               <p>Let us lament, that a Scepter made of ſo much gold and ſilver, and true <hi>Engliſh</hi> mettall, ſhould have any part of it of a weſtphalian temper. Let us lament that ſuch honourable and ſerviceable Troops ſhould have any mounted upon any Saddles of <hi>John</hi> a <hi>Leyden's</hi> make.</p>
+               <p>Let us lament that ſo good an Army ſhould advance toward ſo ill a worke, at leaſt in their ſhewes, and our feares, as to deliver a Parliament of ſome eminent Mem<g ref="char:EOLhyphen"/>bers by a <hi>Caeſarian</hi> ſection.</p>
+               <p>Let us very ſadly lament, that ſome of them of a me<g ref="char:EOLhyphen"/>chanick alloy ſhould be ſo bold, as without warrant from th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> cheife leaders, to plunder us of our King; it was ſo malepert an act, an act that would have better become a <hi>John</hi> a <hi>Loyden, Knipper Dolling,</hi> or <hi>Jack Cade,</hi> then a Loyal <hi>Engliſh</hi> Subject. But what if the ſword contemn e<g ref="char:EOLhyphen"/>ven the Rod, what?<note place="margin">Ezek. 21.13.</note> It is great pity but that Sword ſhould meet with a ſound Rod: If no body elſe will provide it, I hope God will. But I truſt Gentlemen ſome of you will call to minde what an old Roman, a wiſe Stateſ<g ref="char:EOLhyphen"/>man, wrote to <hi>Marcus Brutus</hi> in the like caſe.</p>
+               <p>It was too great a diſparagement to make out King who is the Lord paramount of all our free-holds, ſuch a
+<pb n="23" facs="tcp:114282:15"/>moveable: I beleeve there have beene Spirits in the World which would almoſt ſcorne to be King againe after ſuch a handling. If he went willingly, let us be<g ref="char:EOLhyphen"/>wayle his errour.</p>
+               <p>Let us lament that there ſhould be any <hi>Korah's, Da<g ref="char:EOLhyphen"/>than's,</hi> and <hi>Abiram's,</hi> in an Army, that layes ſo much claime to Piety.</p>
+               <p>Let us lament with much ſpirituall griefe, that many of this Army have bemeazled ſo many ignorant Coun<g ref="char:EOLhyphen"/>try men and Townes, with impious and blaſphemous o<g ref="char:EOLhyphen"/>pinions, and rude manners. I marvell much that any man who feares God cloſely and uprightly ſhould feare this Army, whereof a great part is ſaid to be ſo good, that ſurely they will not, and others ſo bad, as ſurely they cannot hurt us.</p>
+               <p>In the firſt of <hi>Ezek.</hi> there is a deſcription of a ſtrange wheel; it was a wheel, and wheeles, and a wheele within a wheel, and four wheels, and there were four flaſhing, and ſparkling Creatures, guided by a ſpirit, that was in the middeſt of them, whither the ſpirit went, they went, the forme and motion of this wheel made the Heavens looke terrible; I could paralell our Army to this wheel alluſively but not abuſively; If they can ſo drive their wheels that they overthrow not <hi>Charles</hi> his waine, nor breake the axel-tree of the State, I meane the Parliament, and run not the wheels over ſome of their owne loynes, and can bee ſo wiſe, as to unload on this ſide <hi>Munſter,</hi> before they come to bat<g ref="char:EOLhyphen"/>taile and ſlaughter. I dare be bold to ſay with all reve<g ref="char:EOLhyphen"/>rence, that either the Generall, or Chriſt his Gener<g ref="char:EOLhyphen"/>all, hath more skill in carting, then I ever looke to have while I live.</p>
+               <p>Let us lament that theſe our Brethren have imbar<g ref="char:EOLhyphen"/>ked
+<pb n="24" facs="tcp:114282:16"/>themſelves into an act unparallel'd, and an enterprize ſo ſnarled, and imbranched, that I dare ſay, all the eyes amongſt them can not ſee to the end of all 'its iſſues by a thouſand leagues; Let us ſeriouſly lament, ſo ſeri<g ref="char:EOLhyphen"/>ouſly, that wee may prevent all lamentations by theſe our Brethren, and more then fellow Subjects.</p>
+               <p>Let us lament that ſuch an <hi>Engliſh</hi> Army have caſt ſo much well deſerved honour in the duſt, and ſuch a black voyle over the face of the Goſpell.</p>
+               <p>Let us alſo lament the whole State,<note place="margin">Popular.</note> and people, who feele in part but do not ſufficiently ſee their ſin, and ſor<g ref="char:EOLhyphen"/>row. The anger of the Lord was moved againſt the peo<g ref="char:EOLhyphen"/>ple,<note place="margin">2 Sam. 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.1.</note> and moved <hi>David</hi> to ſinne againſt them. Kings can ſinne faſt enough of themſelves, and kindle fires upon themſelves, and the people but uſually people, by their ſinnes, blow the Coales to a flame.</p>
+               <p>Lament that they have a ſuſpended King. Did they know what the <hi>Egyptian</hi> and <hi>Ruſsian</hi> States, and what the Kingdome of <hi>Fez</hi> ſuffered for more then ſeven years together, for want of a King, they would lament to pur<g ref="char:EOLhyphen"/>poſe.</p>
+               <p>
+                  <hi>Jſrael</hi> ſhall ſay we have no King,<note place="margin">Hoſ. 10.3.</note> becauſe we feared not the Lord; what then ſhould a King doe to us? he that can tell what a King ſhould doe to a people that will not feare the Lord, I could earneſtly wiſh him our Kings Vice-Roy in a Country that I know, I ſhould hold him as good, &amp; as wiſe a man as ever was <hi>Papirius Cenſor,</hi> What ſhould a King doe to his people embroyled in ſo many Diviſions, Commotions, and Diſtractions? What ſhould a King doe in a Country where there are ſo many Kings, and ſo few Subjects? I dare frcely ſay, that <hi>Claudius Gor<g ref="char:EOLhyphen"/>dianus</hi> nor the <hi>Barbarian Hermite,</hi> would not willingly at this time take the Royall Scepter into their hands,
+<pb n="25" facs="tcp:114282:16"/>though the Subjects, in the plight they are, would ſwear ſealty to them with their hearts pinned upon their tongues ends. It may be an <hi>Abimileth,</hi> or a <hi>Perkin,</hi> or a <hi>Michael de Lando,</hi> would if they might.</p>
+               <p>Let us lament, that through theſe diſtractions,<note place="margin">Jere. 8.22.</note> and Peoples clamors, there is nor balme enough, nor ſuffi<g ref="char:EOLhyphen"/>cient Phyſitians left in our <hi>Gilead</hi> to recover our healths.</p>
+               <p>Lament that you purſue your owne Parliament with ſo many ſtrifes, and ſtripes of tongues, whereby you may degrade them much more than any defects of theirs, or any conteſt or affront of an Army. You go the next way to cut off your owne necks, and your Chil<g ref="char:EOLhyphen"/>drens throats with your own Raiſors: ſuch gales,<note place="margin">Pſa. 52.2</note> or guſts of ſo ill breath, may ſoone burne down, and abate the height and breadth of your talleſt and ſtraiteſt Ce<g ref="char:EOLhyphen"/>dars, under which we muſt take ſhelter in ſuch ſtormes as theſe.</p>
+               <p>Lament that you have ſo farre loſt your proper popu<g ref="char:EOLhyphen"/>lar Scepter, the feare of God, and the power of godli<g ref="char:EOLhyphen"/>neſſe, for which theſe troubles are come upon you.</p>
+               <p>Lament, that the Figtree languiſheth, the Pomgra<g ref="char:EOLhyphen"/>nat tree, the Palme tree, the Apple tree, and all the trees of the field. Our Gentry, Citizens, Yeomen,<note place="margin">Joel 1.11.12.</note> Husband-men, and Tradeſ-men, are ſo farre withe<g ref="char:EOLhyphen"/>red that their wonted joy is taken from them. You ſhould doe well to conſider that theſe nationall fires doe not onely burne the ſtrong rods,<note place="margin">Iſai 5.24. Iſa. 9.18.</note> But as the Prophet ſaith wickedneſſe burneth as a fire, and devoureth the ſtubble, the chaffe, the bryers, the thornes,<note place="margin">Mal. 3.2.</note> and the thickets of the Forreſt. You cannot indure the refining fire of Chriſt willingly, hee can make you endure his conſuming fire whether you will or no.</p>
+               <p>Lament in a ſpeciall manner, that your Townes, and
+<pb n="26" facs="tcp:114282:17"/>Churches, are ſo belepered with errours, and ſtrange o<g ref="char:EOLhyphen"/>pinions, and that ſo many are roblet-led with new lights, which though they be but Candles-ends will hardly be extinguiſhed, till they have ſet Gods wrath, and the Peo<g ref="char:EOLhyphen"/>ples ſpirits on fire.</p>
+               <p>Laſtly, let us lament, that we cannot lament, at leaſt as God would have us lament; becauſe it is not a lamen<g ref="char:EOLhyphen"/>tation, it ſhall be for a lamentation; ſo it proved by the Lamentations of <hi>Jeremy,</hi> who lamented for theſe mi<g ref="char:EOLhyphen"/>ſeries with more bitter lamentations then ever any mor<g ref="char:EOLhyphen"/>tall man made, or Poet feigned. He lamented till his eyes fayled with teares, his bowells were troubled, and his li<g ref="char:EOLhyphen"/>ver was powred upon the Earth, and ſped never the worſe for his lamentations.</p>
+               <p>The Lord threatens the people to double the Sword the ſecond and third time; if he hath intermitted a while, that he might whet and furbiſh his Sword for a ſecond ſcene, or act of Warre,</p>
+               <p>Hee that cannot ſee whence the third is like to come,<note place="margin">Ezek. 21.14</note> hath very dirn eyes. He can over-turne, over-turne, and o<g ref="char:EOLhyphen"/>ver-turn, he can ſhave the head, &amp; after that the beard, &amp; after that the feete,<note place="margin">Iſai. 7.20.27. Lev. 26.</note> he can walke ſeven times contrary un<g ref="char:EOLhyphen"/>to us, he can give us reall ſignes, and good hopes of mak<g ref="char:EOLhyphen"/>ing us a comfortable ſetled &amp; reformed State; But when the veſſell is well neere finiſhed upon the wheeles, he can breake all againe, and make it of a miſerable forme, if the ſinnes of a Nation provoke him to it.</p>
+               <p>But ſome may ſay,<note place="margin">Jer. 18 10.</note> or think, as the people did of this Prophet, that he ſpeaks parables, and that theſe viſions are but ſayling viſions; I pray God they may prove ſo, for his tender mercie, and holy names ſake.</p>
+               <p>I had thought to have ſpoken ſomewhat of Eccleſiaſti<g ref="char:EOLhyphen"/>call and Domeſticall Scepters, and how weakned Scep<g ref="char:EOLhyphen"/>ters
+<pb n="27" facs="tcp:114282:17"/>might be reſtored to their ſtrength, ſo far as belongs to a Divine: But fearing that the State is at this preſent in too violent and hot a Paroxiſme to take phyſick, and that it would coſt more time then can be allowed, I ſhall here conclude with theſe four concluſions, which I take to be everlaſting truthes.</p>
+               <p>
+                  <label>I.</label> That the higheſt honour, and weightieſt charge, God hath betruſted any of the ſonnes of men with, is publick authority.</p>
+               <p>
+                  <label>II.</label> That no man can ſinne a greater ſinne againſt God and Men, then to caſt the honour and power of authority in the duſt: The ſinne againſt the Holy Ghoſt excepted.</p>
+               <p>
+                  <label>III.</label> That beſides the Mal-Adminiſtrations of government by Magiſtrates themſelves, there is no readier way to pro<g ref="char:EOLhyphen"/>ſtitute it, then to ſuffer vile men to blaſpheme and ſpit in the face of authority.</p>
+               <p>
+                  <label>IIII.</label> That if Rulers once lay publick authority waſt, they will find it the difficulteſt peece of worke that ever mor<g ref="char:EOLhyphen"/>tall men tooke in hand to raiſe it up againe to it's due height, and true ſtrength.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
